@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1685372814 source:c:\users\dariu\onedrive\desktop\tema p2\proiect c++ clase\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<windows.h>
+	<string>
+

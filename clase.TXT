@@ -1,0 +1,16 @@
+BMW
+seria 5
+2
+1
+Audi
+A5
+3
+1
+Dacia
+98
+2
+0
+Audi
+A5
+1
+1
